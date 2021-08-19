@@ -1,4 +1,4 @@
-*** 95.Ankara Java  Bootcamp ***
+ *** 95.Ankara Java  Bootcamp Bitirme Projesi ***
 ***Otel Rezervasyon Sistemi ***
    
        Hostel 
